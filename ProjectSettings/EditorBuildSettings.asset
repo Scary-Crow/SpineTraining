@@ -14,4 +14,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/2S.unity
     guid: b558b136540d4d048bdfb882fa9033c1
+  - enabled: 1
+    path: Assets/Scenes/4S.unity
+    guid: a99ca0efedd7d0c49866f82157a46d82
+  - enabled: 1
+    path: Assets/Scenes/5S.unity
+    guid: b779f3b1924adb245a39ab62a8d2e1d3
+  - enabled: 1
+    path: Assets/Scenes/6S.unity
+    guid: c01a66edea265da4d8e8910c5c08d9b1
+  - enabled: 1
+    path: Assets/Scenes/7S.unity
+    guid: a5f7e9e2344a5f746a32224e67d5c2f0
+  - enabled: 1
+    path: Assets/Scenes/Last.unity
+    guid: 647bb9d5566f50e4cb6961a2fac6db51
+  - enabled: 1
+    path: Assets/Scenes/PreLast.unity
+    guid: 7b67aad3ad525e441a203e8272d5d8b9
+  - enabled: 1
+    path: "Assets/Scenes/\u041C\u0435\u0442\u0430\u043D\u0438\u0435\u042F\u0434\u0440\u0430.unity"
+    guid: 64eeb79c399497143b1faf2c0a60586a
+  - enabled: 1
+    path: "Assets/Scenes/\u041F\u0440\u044B\u0436\u043A\u0438.unity"
+    guid: c6732774f68beb841a17067a9568f8ac
+  - enabled: 1
+    path: "Assets/Scenes/\u041F\u0440\u044B\u0436\u043A\u0438\u0421\u0428\u0435\u0441\u0442\u043E\u043C.unity"
+    guid: c8746ba2c1b0fc745951802136f9b915
   m_configObjects: {}

@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class Go : MonoBehaviour
 {
+	// Просто переход между сценами, вешать на Canvas
 
 	public void ChangeScene(string name)
 	{
